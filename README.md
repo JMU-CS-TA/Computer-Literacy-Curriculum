@@ -21,6 +21,7 @@
     1. Folders
     1. Files
     1. Basic paths
+    1. does the editor/IDE have its own internal filesystem, or just read/write to files in the filesystem of the rest of the computer?
 1. Local vs remote
     1. What (of your current work) is on the computer you&rsquo;re using right now?
         1. What&rsquo;s somewhere else/in &ldquo;the cloud&rdquo;?
