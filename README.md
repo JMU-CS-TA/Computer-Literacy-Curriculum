@@ -14,6 +14,7 @@
     1. Tab through controls/options
     1. Quit app
     1. Switch app
+    1. comm and line: mouse likely doens't change the caret
 1. Text editing
     1. Cut/copy/paste
 1. Filesystem
