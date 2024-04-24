@@ -5,6 +5,7 @@
     1. Shift click to select range
     1. Ctrl click to select/deselect arbitrary
 1. Keyboard
+    1. Keyboarding
     1. Enter/return
     1. Delete vs backspace
     1. Insert vs overwrite mode
